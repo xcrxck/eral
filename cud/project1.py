@@ -20,7 +20,6 @@ print('----------------------')
 user1 = input('Your username: ')
 if user1 == 'Erfan':
     print('Username is correct')
-    
     pass1 = input('Your password: ')
     if pass1 == '1234':
         print('Welcome to your app')
