@@ -1,6 +1,6 @@
 number = input('Enter a number: ')
 
-multiplication = int(number) * 2
+multiplication = float(number) * 2
 
 result = multiplication % 4
 
