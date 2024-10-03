@@ -78,7 +78,6 @@ def filtering():
                 filterKeysIndex = filterKeys[filterEntryInt-1]
 
     else:
-        
         print('-------------\nWrong Input!')
         
         time.sleep(2)
@@ -108,7 +107,6 @@ def id_detection():
 
 # Function for id matches found
 def id_matches():
-    
     fake_load()
     
     idKeysIndex = 0 
